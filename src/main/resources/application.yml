@@ -1,0 +1,15 @@
+#server:
+#  port: ${port:8080}
+#
+#studentpo:
+#  sid: 1
+#  sname: stuName
+#  list:
+#  - l1
+#  - l2
+#  map:
+#    a: a1
+#    b: b1
+#  shool:
+#    shid: 11
+#    shname: shName
